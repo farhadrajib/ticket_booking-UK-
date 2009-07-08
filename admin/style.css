@@ -1,0 +1,107 @@
+body{
+	background-color:#4D4D4D;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+.body_container{
+	width:800px;
+	height:auto;
+	background:#29333D;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	margin-left:200px;
+}
+.body-header-text{
+	height:120px;
+	_height:110px;
+	text-align:center;
+	margin-top:10px;
+	padding-left:auto;
+}
+.body-header-text_admin{
+	font:Helvetica;
+	font-size:30px;
+	color:#FFFFFF;
+	text-align:center;
+	margin-top:0px;
+	padding-top:5px;
+}
+.login{
+	height:300px;
+	text-align:center;
+	margin-top:10px;
+	padding-left:auto;
+	
+	
+	}
+.login-image{
+background-image:url(images/login.jpg);
+
+}
+.login-text{
+	font:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-align:right;
+	padding-left:5px;
+}
+.dhtml{
+	
+	height:auto;
+	padding-left:25px;
+	background:#3399FF;
+}
+
+.login-white
+{
+background:#FFFFFF;
+height:auto;
+min-height:500px;
+
+}
+.login-margin{
+margin-top:25px;
+}
+
+#service2{
+	width:400px;
+	float:left;
+	margin:0;
+}
+
+.service2 ul{
+	
+	padding:0;
+	margin:0;
+}
+.service2 ul li{
+	background:url(images/bot_div.gif) left bottom repeat-x;
+	height:25px;
+	display:inline;
+	list-style:none;
+	list-style:none;
+}
+.service2 ul li a{
+	
+	padding:0 0 0 15px;
+	height:24px;
+	font:normal 14px/24px Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight:700;
+	background-color:inherit;
+	text-decoration:none;
+	margin-left:10px;
+	
+}
+.service2 ul li a:hover{
+	color:#509BB4;
+	background-color:#254141;
+}
+.service2 ul li.noImg{
+	background-image:none;
+}
+
+.fontstyle{font-size:11px; font-weight:bold;  color:#000000; font-family:Arial, Helvetica, sans-serif;}
+.header-text{font-size:12px; font-weight:bold; color:#FFCC00;  }
+.tile{font-size:16px; font-weight:bold; color:#009900; font-family:Arial, Helvetica, sans-serif;}
+.tilefront{font-size:16px; font-weight:bold; color:#FF0000; font-family:Arial, Helvetica, sans-serif;}
+.tilelink{font-size:16px; font-weight:bold; color:#006600; font-family:Arial, Helvetica, sans-serif;}
